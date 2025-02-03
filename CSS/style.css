@@ -66,3 +66,80 @@
 {
     max-width: 390px;
 }
+
+.section-head p
+{
+    font-family: "font bold";
+    font-size: 36px;
+    margin-right: 30px;
+}
+.section-head span
+{
+    line-height: 54px;
+    font-family: "font 1";
+}
+.abt-shoe
+{
+    font-family: "font 1";
+    font-size: 14px;
+    line-height: 20px;
+}
+.shopbtn
+{
+    padding: 17px 80px;
+}
+.abt-offer h3
+{
+    font-family: "font bold";
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.abt-offer p,.abt-offer span
+{
+    font-family: "font 1";
+    text-align: center;
+    font-size: 14px;
+}
+.section4>div,.section5>div
+{
+    max-width: 1450px;
+    width: 100%;
+}
+.collection-title,.section5-head
+{
+    font-size: 32px;
+    font-family: "font bold";
+    color: white;
+}
+.section4 img,.section5 img
+{
+    filter: brightness(.6);
+}
+.popout-img:hover img
+{
+    transform: scale(1.02) !important;
+    transition: all 0.3s ease;
+}
+
+.popout-img img
+{
+    transition:all 0.3s ease !important;
+    
+}
+.section7 p
+{
+    text-align: justify;
+    font-family: "font 1";
+    font-size: 14.3px;
+}
+.section7 div > div
+{
+    padding: 0 23px;
+}
+.section7 span
+{
+    font-family: "font bold";
+    font-size: 16px;
+    text-transform: uppercase;
+}
